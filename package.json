@@ -1,0 +1,16 @@
+{
+  "name": "mvrp",
+  "version": "1.1.0",
+  "description": "A package for Muvor Protocol (MVRP) with video transmission capabilities.",
+  "main": "index.js",
+  "repository": "https://github.com/wakuu-enterprises/mvrp-js",
+  "keywords": ["mvrp", "nodejs", "react-mvrp"],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tony Walker @ Wakuu Enterprises",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
